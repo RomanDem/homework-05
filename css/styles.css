@@ -205,7 +205,7 @@ header {
     vertical-align: middle;
 }
 
-.overlay-list-item :hover .link-like {
+.overlay-list-item:hover {
     background-color: #1abc9c;
 }
 
