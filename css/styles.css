@@ -205,9 +205,7 @@ header {
     vertical-align: middle;
 }
 
-.overlay-list-item:hover {
-    background-color: #1abc9c;
-}
+
 
 /*
 .slider-pagination-item {
@@ -488,6 +486,9 @@ section {
     color: #1abc9c;
 }
 
-
+.overlay-list-item:hover {
+    background-color: #1abc9c;
+    border: 2px solid rgba(255, 255, 255, 0);
+}
 
 /* rere*/
